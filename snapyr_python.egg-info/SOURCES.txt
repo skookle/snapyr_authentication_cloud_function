@@ -1,0 +1,12 @@
+README.md
+setup.py
+snapyr/__init__.py
+snapyr/client.py
+snapyr/consumer.py
+snapyr/request.py
+snapyr/utils.py
+snapyr_python.egg-info/PKG-INFO
+snapyr_python.egg-info/SOURCES.txt
+snapyr_python.egg-info/dependency_links.txt
+snapyr_python.egg-info/requires.txt
+snapyr_python.egg-info/top_level.txt
