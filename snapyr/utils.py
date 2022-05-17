@@ -4,7 +4,6 @@ import numbers
 from decimal import Decimal
 from datetime import date, datetime
 from dateutil.tz import tzlocal, tzutc
-
 import six
 
 log = logging.getLogger('snapyr')

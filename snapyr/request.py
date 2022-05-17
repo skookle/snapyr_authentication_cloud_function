@@ -6,7 +6,6 @@ import json
 from dateutil.tz import tzutc
 from requests.auth import HTTPBasicAuth
 from requests import sessions
-
 from snapyr.utils import remove_trailing_slash
 
 _session = sessions.Session()
